@@ -35,3 +35,4 @@ selenium-java-framework/
 │── testng.xml                          # TestNG suite file
 │── README.md                           # Documentation
 │── .gitignore                          # Ignore unnecessary files
+
